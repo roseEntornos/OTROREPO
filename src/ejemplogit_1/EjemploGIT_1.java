@@ -22,6 +22,7 @@ public class EjemploGIT_1 {
         System.out.println("Esto es una prueba GIT");
         System.out.println("Ahora añado una línea mas");
         System.out.println("Añadida desde github");
+        System.out.println("Linea para otro tag v2");
     }
     
 }
