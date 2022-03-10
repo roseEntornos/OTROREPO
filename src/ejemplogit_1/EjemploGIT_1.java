@@ -23,6 +23,11 @@ public class EjemploGIT_1 {
         System.out.println("Ahora añado una línea mas");
         System.out.println("Añadida desde github");
         System.out.println("Linea para otro tag v2");
+        
+        System.out.println("-------------------------");
+        Nada n=new Nada(3);
+        n.setX(7);
+        System.out.println(n.getX());
     }
     
 }
